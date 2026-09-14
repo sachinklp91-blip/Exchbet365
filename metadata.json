@@ -1,0 +1,6 @@
+{
+  "name": "Dual Web",
+  "description": "Modern dual-tab WebView browser for Exchbet365 and Crex with session cookie persistence, pull-to-refresh, error handling, and Material Design 3.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

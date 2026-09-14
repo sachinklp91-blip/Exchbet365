@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Dual Web</string>
+    <string name="tab_exchange">ExchBet</string>
+    <string name="tab_crex">Crex</string>
+    <string name="error_connection_title">Connection Error</string>
+    <string name="error_connection_desc">Unable to load the page. Please check your internet connection and try again.</string>
+    <string name="retry">Retry</string>
+    <string name="refresh">Refresh</string>
+    <string name="go_home">Go to Home</string>
+    <string name="open_external">Open in Browser</string>
+</resources>
